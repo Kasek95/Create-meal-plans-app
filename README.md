@@ -1,1 +1,1 @@
-# Create-meal-plans-app
+To start browsing the application you have to type "npm install" or "npm i" in the terminal. Then, once the node module package is installed, you need to type npm start in the terminal. Have fun using the app!!!!!!
